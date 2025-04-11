@@ -1,0 +1,1 @@
+# Practicing Maven project
